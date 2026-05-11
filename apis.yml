@@ -37,6 +37,11 @@ common:
     name: OpenChain GitHub
     description: Source code and repositories for OpenChain.
     url: https://github.com/OpenChain-Project
+  - type: Integrations
+    url: https://openchainproject.org/partners
+integrations:
+  - name: THE LINUX FOUNDATION PROJECTS
+  - name: OpenChain
 maintainers:
   - FN: Kin Lane
     email: info@apievangelist.com
