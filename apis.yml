@@ -29,6 +29,8 @@ apis:
       - type: Documentation
         url: https://www.openchainproject.org/resources
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/openchain
   - type: Documentation
     name: OpenChain Documentation
     description: Official documentation for OpenChain.
