@@ -41,7 +41,7 @@ common:
     url: https://github.com/OpenChain-Project
   - type: Integrations
     url: https://openchainproject.org/partners
-  - type: LLMsTxt
+  - type: LlmsText
     url: https://openchainproject.org/llms.txt
 integrations:
   - name: THE LINUX FOUNDATION PROJECTS
