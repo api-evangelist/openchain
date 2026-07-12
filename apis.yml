@@ -29,6 +29,8 @@ apis:
       - type: Documentation
         url: https://www.openchainproject.org/resources
 common:
+  - type: DomainSecurity
+    url: security/openchain-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/openchain
   - type: Documentation
@@ -43,6 +45,8 @@ common:
     url: https://openchainproject.org/partners
   - type: LlmsText
     url: https://openchainproject.org/llms.txt
+  - url: https://openchainproject.org/feed
+    type: Blog
 integrations:
   - name: THE LINUX FOUNDATION PROJECTS
   - name: OpenChain
