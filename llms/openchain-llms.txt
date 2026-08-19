@@ -1,0 +1,43 @@
+# OpenChain
+> Building Trust In The Supply Chain Since 2016
+
+## Posts
+- [Open Source Compliance Education](https://openchainproject.org/news/2026/08/04/open-source-compliance-education): The Bosch Open Source and InnerSource Program Office has created a new training program. This training is built by Bosch
+- [OpenChain Monthly Newsletter – July 2026](https://openchainproject.org/news/2026/08/04/openchain-monthly-newsletter-july-2026): Welcome to the July 2026 edition of the OpenChain newsletter. Here's what's new across our community, our compliance programs, and
+- [OpenChain Newsletter #87](https://openchainproject.org/monthly-newsletter/2026/06/16/openchain-newsletter-87): The OpenChain Newsletter provides a monthly summary of our work. It contains an overview of what we are doing to
+- [Webinar – Open Chain AI SBOM Self Certification & ISO 4200X](https://openchainproject.org/news/2026/04/09/webinar-open-chain-ai-sbom-iso-42001-iso42003): About This Webinar: This webinar explored the direction of OpenChain AI SBOM Self-Certification and its role in supporting responsible AI
+- [Webinar – Lessons from XWiki Building sustainable open source software](https://openchainproject.org/webinar/2026/07/22/webinar-lessons-from-xwiki-building-sustainable-open-source-software): About This Webinar: This webinar '' lessons from XWiki Building sustainable open source software'' went through How individual customer requests
+
+## Pages
+- [Roles&Responsibilities](https://openchainproject.org/roles-responsibilities): This page describes the roles and responsibilities within the OpenChain Project. Ambassador — A community advocacy role, not a governance
+- [CRA Compliance](https://openchainproject.org/cracompliance): The Cyber Resilience Act's main obligations apply from 11 December 2027, with reporting obligations already applying as of 11 September
+- [FOSS-LÄND X OpenChain 2027](https://openchainproject.org/foss-land-x-openchain-2027): FOSS-LÄND x OpenChain Community meets friends @ Stuttgart 2027 When? Monday 22nd of march 2027 Tuesday 23rd of march 2027
+- [Monthly Newsletter](https://openchainproject.org/monthly-newsletter)
+- [Events](https://openchainproject.org/events):                                     The OpenChain
+
+## Organizations
+- [Yutila](https://openchainproject.org/organizations/yutila)
+- [FINAL FRONTIER GLOBAL RESERVE LLC](https://openchainproject.org/organizations/final-frontier-global-reserve-llc)
+- [Agent Passport System](https://openchainproject.org/organizations/agent-passport-system)
+- [Pateon Network Technology](https://openchainproject.org/organizations/pateon-network-technology)
+- [MYUKURA](https://openchainproject.org/organizations/myukura)
+
+## Categories
+- [News](https://openchainproject.org/category/news)
+- [Featured](https://openchainproject.org/category/featured)
+- [Webinar](https://openchainproject.org/category/webinar)
+- [Monthly Newsletter](https://openchainproject.org/category/monthly-newsletter)
+- [community](https://openchainproject.org/category/webinar/community-webinar)
+
+## Tags
+- [Open](https://openchainproject.org/tag/open)
+
+## Organization Categories
+- [iso-iec-5230-compatible](https://openchainproject.org/organizations_category/iso-iec-5230-compatible)
+- [Partners](https://openchainproject.org/organizations_category/partners)
+- [Partners - Service Providers](https://openchainproject.org/organizations_category/partners-service-providers)
+- [Partners - Law Firms](https://openchainproject.org/organizations_category/partners-law-firms)
+- [security-assurance-compatible](https://openchainproject.org/organizations_category/security-assurance-compatible)
+
+## Optional
+- [Sitemap index](https://openchainproject.org/wp-sitemap.xml)
