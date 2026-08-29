@@ -3,6 +3,17 @@ name: OpenChain
 description: >-
   OpenChain is an international standard (ISO/IEC 5230) under the Linux Foundation for open source license compliance programs. It helps organizations manage open source licensing consistently by providing a benchmark for trust between organizations in the software supply chain.
 type: Index
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: freemium
   onboarding: unknown
