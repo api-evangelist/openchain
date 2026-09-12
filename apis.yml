@@ -52,6 +52,8 @@ apis:
       - type: Documentation
         url: https://www.openchainproject.org/resources
 common:
+  - type: Website
+    url: https://www.openchainproject.org/
   - type: DomainSecurity
     url: security/openchain-domain-security.yml
   - type: LinkedIn
